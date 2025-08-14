@@ -1,7 +1,7 @@
 <!-- PES University Campus Source - GitHub Enterprise README -->
 <div align="center">
   
-  <img src="PES_UNI_LIN_RGB.jpg" alt="PES University Logo" width="200" />
+  <img src="images/PES_UNI_LIN_RGB.jpg" alt="PES University Logo" width="200" />
   
   # 🎓 PES University Campus Source
   
