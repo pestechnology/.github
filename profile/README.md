@@ -6,9 +6,9 @@
   # 🎓 PES University Campus Source
   
   <img src="https://img.shields.io/badge/Platform-GitHub%20Enterprise-1a472a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Enterprise">
-  <img src="https://img.shields.io/badge/Users-15%2C000%2B-2d5a3d?style=for-the-badge" alt="Users">
+  <img src="https://img.shields.io/badge/Users-2%2C000%2B-2d5a3d?style=for-the-badge" alt="Users">
   <img src="https://img.shields.io/badge/Uptime-99.9%25-27ae60?style=for-the-badge" alt="Uptime">
-  <img src="https://img.shields.io/badge/Repositories-5%2C000%2B-f4a261?style=for-the-badge" alt="Repositories">
+  <img src="https://img.shields.io/badge/Repositories-500%2B-f4a261?style=for-the-badge" alt="Repositories">
   
   ### 🚀 *GitHub Enterprise for Academic Excellence*
   
@@ -31,7 +31,7 @@
 </td>
 <td align="center" width="40%">
   
-  **🎯 Serving 15,000+ Students, Faculty & Staff**
+  **🎯 Serving 2,000+ Students, Faculty & Staff**
   
   Secure collaboration • Version control • Project management
   
@@ -108,9 +108,9 @@ graph TD
 
 | 🏆 **Achievement** | 📊 **Numbers** |
 |:---|---:|
-| 👥 **Active Users** | **15,000+** |
-| 📚 **Repositories** | **5,000+** |
-| 🎯 **Projects Completed** | **2,500+** |
+| 👥 **Active Users** | **2,000+** |
+| 📚 **Repositories** | **500+** |
+| 🎯 **Projects Completed** | **100+** |
 | 🏫 **Program Teams** | **20+** |
 | ⚡ **Platform Uptime** | **99.9%** |
 | 🔒 **Security Incidents** | **0** |
@@ -153,7 +153,7 @@ graph TD
 
 <img src="https://img.shields.io/badge/Step_1-Create_Account-1a472a?style=flat-square" alt="Step 1">
 
-Sign up with your `@pes.edu` email
+Sign up with your `@pesu.pes.edu` email
 
 <img src="https://img.shields.io/badge/Step_2-Join_Organization-2d5a3d?style=flat-square" alt="Step 2">
 
